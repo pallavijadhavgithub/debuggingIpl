@@ -1,0 +1,10 @@
+.heading-not-found {
+  font-family: 'Bree serif';
+  font-size: 40px;
+  font-weight: bold;
+}
+.notfound-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
